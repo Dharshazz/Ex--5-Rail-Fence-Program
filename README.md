@@ -66,5 +66,7 @@ d[j] = c[i];
 ```
 
 # OUTPUT
+![Screenshot 2025-04-07 082014](https://github.com/user-attachments/assets/f578bee9-0e85-4df7-a9b1-f1be5a825845)
 
 # RESULT
+The program is executed successfully.
